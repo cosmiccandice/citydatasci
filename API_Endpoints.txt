@@ -1,5 +1,0 @@
-#CTA Data
-https://data.cityofchicago.org/resource/5neh-572f.csv?$query=SELECT%20%60station_id%60%2C%20%60stationname%60%2C%20%60date%60%2C%20%60daytype%60%2C%20%60rides%60%0AWHERE%0A%20%20%60date%60%0A%20%20%20%20BETWEEN%20%222020-01-01T00%3A00%3A00%22%20%3A%3A%20floating_timestamp%0A%20%20%20%20AND%20%222024-01-01T00%3A00%3A00%22%20%3A%3A%20floating_timestamp
-
-#Education Data
-https://data.cityofchicago.org/resource/d7as-muwj.csv
